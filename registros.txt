@@ -1,0 +1,9 @@
+braian,gasparini,37179604,17:10:30,adsdasd,asdsadasd
+braian,gasparini,2367861263,27/11/92,20:10:22,Propietario,1123455432,1,Dentro
+braian,gasparini,2367861263,27/11/92,20:10:22,Propietario,1123455432,1,Dentro
+braian,gasparini,2367861263,27/11/92,20:10:23,Propietario,1123455432,1,Dentro
+bjasbdkj,jdsbajkdkba,jdabsjkdbkasj,djsbakdb,20:13:43,Visitante,,,Dentro
+bjasbdkj,jdsbajkdkba,jdabsjkdbkasj,djsbakdb,20:13:44,Visitante,,,Dentro
+bjasbdkj,jdsbajkdkba,jdabsjkdbkasj,djsbakdb,20:13:44,Visitante,,,Dentro
+bjasbdkj,jdsbajkdkba,jdabsjkdbkasj,djsbakdb,20:13:46,Visitante,,,Dentro
+bjasbdkj,jdsbajkdkba,jdabsjkdbkasj,djsbakdb,20:13:46,Visitante,,,Dentro
